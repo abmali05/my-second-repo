@@ -61,3 +61,20 @@ h2{
     box-shadow: 10px 10px 40px grey;
 
 }
+
+#web-dev-exp{
+    border-left: 7px solid;
+   border-image: linear-gradient(blue,cyan);
+   border-image-slice: 1;    
+
+}
+
+#full-stack-exp{
+    border-left: 7px solid;
+    border-image: linear-gradient(purple,tomato);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+}
